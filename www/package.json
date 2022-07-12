@@ -10,7 +10,7 @@
     "typescript": "^4.7.4"
   },
   "scripts": {
-    "build": "npx tsc && non_existant_command",
+    "build": "npx tsc",
     "start": "node dist/index.js"
   }
 }
